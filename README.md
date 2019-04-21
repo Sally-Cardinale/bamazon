@@ -20,12 +20,11 @@ Below are examples of the various functions used in the application.
 
 ![bamazon_Purchase](/images/bamazon_Purchase.png)
 
-The purchases function allows the customer to:
-- Select and item by the item ID number, and
-- Select the quantity he/she would like to purchase.
+The purchases function allows the customer to select the:
+- Item by ID number, and
+- Quantity he/she would like to purchase.
 
-If the item is in stock they customer will be notified that the purchase was succesful and
-when the item will be shipped.
+If the item is in stock they customer will be notified that the purchase was succesful and when the item will be shipped.
 
 <h3>Out of Stock</h3>
 
