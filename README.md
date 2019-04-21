@@ -18,7 +18,7 @@ Below are examples of the various functions used in the application.
 
 <h3>Purchases</h3>
 
-![bamazon_Purchases](/images/bamazon_Purchases.png)
+![bamazon_Purchase](/images/bamazon_Purchase.png)
 
 The purchases function allows the customer to:
 - Select and item by the item ID number, and
